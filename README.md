@@ -1,32 +1,8 @@
-# ChatGLM3
+# ChatGLM3_Medical
 
-<p align="center">
-🤗 <a href="https://huggingface.co/THUDM/chatglm3-6b" target="_blank">HF Repo</a> • 🤖 <a href="https://modelscope.cn/models/ZhipuAI/chatglm3-6b" target="_blank">ModelScope</a> • 🤖 <a href="https://www.wisemodel.cn/models/ZhipuAI/chatglm3-6b" target="_blank">WiseModel</a> • 🐦 <a href="https://twitter.com/thukeg" target="_blank">Twitter</a> • 📃 <a href="https://arxiv.org/abs/2103.10360" target="_blank">[GLM@ACL 22]</a> <a href="https://github.com/THUDM/GLM" target="_blank">[GitHub]</a> • 📃 <a href="https://arxiv.org/abs/2210.02414" target="_blank">[GLM-130B@ICLR 23]</a> <a href="https://github.com/THUDM/GLM-130B" target="_blank">[GitHub]</a> <br>
-</p>
-<p align="center">
-    👋 加入我们的 <a href="https://join.slack.com/t/chatglm/shared_invite/zt-25ti5uohv-A_hs~am_D3Q8XPZMpj7wwQ" target="_blank">Slack</a> 和 <a href="resources/WECHAT.md" target="_blank">微信</a>
-</p>
-<p align="center">
-📍在 <a href="https://www.chatglm.cn">chatglm.cn</a> 体验更大规模的 ChatGLM 模型。
-</p>
+复刻来源于[ChatGLM3-6B](https://huggingface.co/THUDM/chatglm3-6b)，ChatGLM3部分可以参见：[ChatGLM3 开放技术文档](https://lslfd0slxc.feishu.cn/wiki/WvQbwIJ9tiPAxGk8ywDck6yfnof?from=from_copylink)
 
-[Read this in English.](./README_en.md)
-
-📔 关于`ChatGLM3-6B`
-更为详细的使用信息，可以参考
-+ [ChatGLM3 开放技术文档](https://lslfd0slxc.feishu.cn/wiki/WvQbwIJ9tiPAxGk8ywDck6yfnof?from=from_copylink)
-+ [Bilibili video](https://www.bilibili.com/video/BV1uC4y1J7yA)
-+ [YouTube video](https://www.youtube.com/watch?v=Pw9PB6R7ORA)
-
-## GLM-4 介绍
-
-我们已经发布最新的 **GLM-4** 模型，该模型在多个指标上有了新的突破，您可以在以下两个渠道体验我们的最新模型。
-
-+ [智谱清言](https://www.chatglm.cn) 体验最新版 GLM-4，包括 **GLMs，All tools**等功能，下载 智谱清言 APP
-  或者使用 [网页端](https://www.chatglm.cn)。
-+ [API平台](https://open.bigmodel.cn/) 新一代 API 平台已经上线，您可以直接在 API
-  平台上体验 `GLM-4`、`GLM-3-Turbo`、`CharGLM-3`，`CogView-3` 等新模型。
-  其中`GLM-4`、`GLM-3-Turbo`两个模型支持了 `System Prompt`、`Function Call`、 `Retrieval`、`Web_Search`等新功能，欢迎体验。
+本项目主要针对医疗指标、临床路径、临床数据规范化这些方向进行微调（内容训练中。。）。
 
 -----
 
